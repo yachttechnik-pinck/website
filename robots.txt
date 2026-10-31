@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yachttechnik-pinck.de/sitemap.xml
